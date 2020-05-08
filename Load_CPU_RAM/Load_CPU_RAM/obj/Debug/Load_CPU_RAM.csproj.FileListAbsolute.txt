@@ -1,0 +1,9 @@
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\bin\Debug\Load_CPU_RAM.exe.config
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\bin\Debug\Load_CPU_RAM.exe
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\bin\Debug\Load_CPU_RAM.pdb
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.csprojAssemblyReference.cache
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.MainForm.resources
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.Properties.Resources.resources
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.csproj.GenerateResource.cache
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.exe
+E:\Desktop\Project_Management\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.pdb
